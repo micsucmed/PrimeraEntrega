@@ -1,0 +1,43 @@
+.nombre{
+    color: ivory;
+    background-color: #343a40;
+    text-align: center;
+    display: flex;
+    font-size: 8vw;
+}
+.parte{
+    background-color: grey;
+    color: ivory;
+}
+.subtitulo{
+    display: flex;
+    font-size: 3vw;
+    color: ivory;
+}
+.mensaje{
+    display: flex;
+    font-size: 1vw;
+    color: ivory;
+    text-align: justify;
+}
+.tituloLista{
+    display: flex;
+    font-size: 2vw;
+    color: ivory;
+}
+.card-title{
+    color: black;
+    display: flex;
+    font-size: 2vw;
+}
+.card-text{
+    color: black;
+    display: flex;
+    font-size: 1.5vw;
+}
+.footer{
+    background-color: grey;
+    color: ivory;
+    display: flex;
+    font-size: 1.5vw;
+}
