@@ -1,52 +1,43 @@
-/*Change the responsive image with this in order that in the mobile view it's not that big*/
-.MainImage {
-  max-width: auto;
-  height: 20vw;
-  margin-top: 7px;
-  margin-left: 7px;
-  object-fit: contain;
+.nombre{
+    color: ivory;
+    background-color: #343a40;
+    text-align: center;
+    display: flex;
+    font-size: 8vw;
 }
-
-/**Remove the color of the background so that the image is not disrupted*/
-.nombre {
-  color: ivory;
-  text-align: center;
-  display: flex;
-  font-size: 8vw;
+.parte{
+    background-color: grey;
+    color: ivory;
 }
-.parte {
-  background-color: grey;
-  color: ivory;
+.subtitulo{
+    display: flex;
+    font-size: 3vw;
+    color: ivory;
 }
-.subtitulo {
-  display: flex;
-  font-size: 3vw;
-  color: ivory;
+.mensaje{
+    display: flex;
+    font-size: 1vw;
+    color: ivory;
+    text-align: justify;
 }
-.mensaje {
-  display: flex;
-  font-size: 1vw;
-  color: ivory;
-  text-align: justify;
+.tituloLista{
+    display: flex;
+    font-size: 2vw;
+    color: ivory;
 }
-.tituloLista {
-  display: flex;
-  font-size: 2vw;
-  color: ivory;
+.card-title{
+    color: black;
+    display: flex;
+    font-size: 2vw;
 }
-.card-title {
-  color: black;
-  display: flex;
-  font-size: 2vw;
+.card-text{
+    color: black;
+    display: flex;
+    font-size: 1.5vw;
 }
-.card-text {
-  color: black;
-  display: flex;
-  font-size: 1.5vw;
-}
-.footer {
-  background-color: grey;
-  color: ivory;
-  display: flex;
-  font-size: 1.5vw;
+.footer{
+    background-color: grey;
+    color: ivory;
+    display: flex;
+    font-size: 1.5vw;
 }
